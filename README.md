@@ -19,3 +19,16 @@ CREATE TABLE public.warehouse_retail_sale (
 	"WAREHOUSE_SALES" text NULL
 ); 
 ```
+
+### Analysis
+
+1. Find All distinct Item codes query 
+
+```
+
+```
+
+2. Count Distinct Item codes query 
+3. Find All distinct Suppliers query
+4. Count Distinct Item codes query
+5. Order Items Highest to Lowest based on Warehouse Sale of items Query
