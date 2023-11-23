@@ -1,4 +1,4 @@
-# Project to do analysis on Sales Record
+```````````# Project to do analysis on Sales Record
 
 ### Project Motivation
  - I downloaded Sales File CSV From this location - https://catalog.data.gov/dataset/warehouse-and-retail-sales
@@ -22,9 +22,10 @@ CREATE TABLE public.warehouse_retail_sale (
 
 ### Analysis
 
-1. Find All distinct Item codes query 
+1. Find All distinct `Item codes` query 
 
 ```
+select distinct "ITEM_CODE" from warehouse_retail_sale wrs ;
 
 ```
 
